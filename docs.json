@@ -4,8 +4,8 @@
   "name": "M-PoC Example",
   "colors": {
     "primary": "#E619D1",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "light": "#E619D1",
+    "dark": "#E619D1"
   },
   "favicon": "/favicon.svg",
   "navigation": {
